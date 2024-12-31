@@ -3,7 +3,7 @@ It took me quite some time and searching through forums to figure these calls ou
 Therefore, after some consideration I decided to make them public.
 With a bit of luck they might also help others (you) on their way.
 When going through the code keep in mind it is not meant to give a complete set of options or write a tutorial.
-It is a description of the 'generalizable' commands I use most often as iRODS user and admin.
+It is a description of the 'universal' commands I use most often as iRODS user and admin.
 
 
 ## For more background information:
